@@ -1,7 +1,7 @@
 {
     "name": "mahony0/wn-updater-plugin",
     "type": "winter-plugin",
-    "description": "Plugin for disabling FLoC on WinterCMS",
+    "description": "Plugin for updating WinterCMS via remote command",
     "homepage": "https://github.com/mahony0/wn-updater-plugin",
     "keywords": ["winter", "cms", "wintercms"],
     "license": "MPL-2.0",
