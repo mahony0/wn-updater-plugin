@@ -45,7 +45,7 @@ class Helpers
         $basepath = base_path();
 
         exec(
-            "cd {$basepath} & composer update 2>&1",
+            "cd {$basepath} && composer update 2>&1",
             $execResponse
         );
 
